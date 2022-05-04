@@ -2,8 +2,4 @@ Hello from the other side
 
 Checking out for rebase
 
-<<<<<<< HEAD
-New change for remote
-=======
-New changes locally
->>>>>>> 8e2aa3c (new local changes)
+new changes for both local and remote
